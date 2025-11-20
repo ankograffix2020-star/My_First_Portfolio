@@ -1,4 +1,15 @@
 /* FLEXBOX LAYOUT SETUP */
+<header>
+    <nav>
+        <ul>
+            <li class="logo">😂</li>
+            <li>Home</li>
+            <li>About</li>
+            <li>Projects</li>
+            <li>Contact</li>
+        </ul>
+    </nav>
+</header>
 
 /* 1. Body is a flex container in a column layout */
 body {
